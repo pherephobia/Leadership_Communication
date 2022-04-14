@@ -8,3 +8,8 @@
 
 ## Acknowledgment
 The authors thank KIPA for granting a permission to utilize the high quality of dataset.
+
+## Authors
+1. [Jiyoon Kang](jiyoon@email.sc.edu)
+2. [Sanghoon Park](sp23@email.sc.edu)
+3. [Sun Gue Yang](sungue@email.sc.edu)
